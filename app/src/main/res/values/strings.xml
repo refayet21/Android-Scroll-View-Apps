@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tutorial 4.5 listview custom adapter android</string>
+    <string-array name="country_names">
+
+        <item>China</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>Japan</item>
+        <item>Philippines</item>
+        <item>Vietnam</item>
+        <item>Turkey</item>
+        <item>Iran</item>
+        <item>Thailand</item>
+        <item>Myanmar</item>
+        <item>Iraq</item>
+        <item>Afghanistan</item>
+        <item>Bhutan</item>
+        <item>Maldives</item>
+        <item>Sri Lanka</item>
+        <item>Nepal</item>
+
+
+
+    </string-array>
+</resources>
